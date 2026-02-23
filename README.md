@@ -23,5 +23,3 @@ A good-performance **RISC-V (RV32I)** processor implemented in **SystemVerilog**
 * `testbench/`: Verification environment and assembly test cases.
 * `docs/`: Architecture diagrams and design specifications.
 
----
-*Disclaimer: This project is for portfolio purposes. If you are a current student, please adhere to your university's academic integrity policies.*
