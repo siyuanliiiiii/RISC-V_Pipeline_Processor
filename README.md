@@ -1,9 +1,7 @@
 # RISC-V 5-Stage Pipelined Processor
 
 ## 📌 Overview
-This repository contains a high-performance **RISC-V (RV32I)** processor implemented in **SystemVerilog**. Developed as part of the ECE 411: Computer Organization & Design course at UIUC, this project focuses on efficient architectural design, pipeline hazard management, and memory hierarchy integration.
-
-
+A good-performance **RISC-V (RV32I)** processor implemented in **SystemVerilog**, featured with pipeline hazard management, and memory hierarchy integration.
 
 ## 🚀 Key Features
 * **Classic 5-Stage Pipeline**: Implemented Fetch (IF), Decode (ID), Execute (EX), Memory (MEM), and Write-back (WB) stages.
@@ -16,8 +14,8 @@ This repository contains a high-performance **RISC-V (RV32I)** processor impleme
 
 ## 🛠 Tech Stack
 * **Language**: SystemVerilog
-* **Simulation**: Synopsys VCS / Verilator
-* **Verification**: GTKWave / Verdi
+* **Simulation**: Synopsys VCS
+* **Verification**: Verdi
 * **Target Architecture**: RISC-V
 
 ## 📂 Project Structure
